@@ -1,4 +1,4 @@
-A NeoVim configuration with Github Copilot integration and stubs! Comes with essential plugins like telescope and neotree.
+My personal custom NeoVim config! It utilizes the Lazy package manager, along with Mason for LSP management. It also features GitHub copilot integration.
 
 ![alt text](https://github.com/AlephKnot2599/nvim/blob/master/neomenu.png)
 
