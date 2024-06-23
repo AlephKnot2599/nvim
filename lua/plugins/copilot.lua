@@ -12,9 +12,9 @@ return {
 		opts = {
 			debug = true, -- Enable debugging
 		},
-    config = function()
-      require "CopilotChat".setup()
-      vim.keymap.set("n", "<C-m>", ":CopilotChat<CR>", {})
-    end,
+		config = function()
+			require("CopilotChat").setup()
+			vim.keymap.set("n", "<C-m>", ":CopilotChat<CR>", {})
+		end,
 	},
 }
